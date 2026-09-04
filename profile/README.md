@@ -45,6 +45,6 @@ The goal is twofold: showcase architectural competence, and keep the door open f
 
 ## Get in touch
 
-Open to architecture and tech-lead opportunities — and to conversations about this project.
+Open to architecture opportunities — and to conversations about this project.
 
 📫 [mastrocola@gmail.com](mailto:mastrocola@gmail.com) · [LinkedIn](https://www.linkedin.com/in/marciomastrocola) · [GitHub](https://github.com/mastrocola)
