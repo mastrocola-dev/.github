@@ -43,7 +43,7 @@ The goal is twofold: showcase architectural competence, and keep the door open f
 - [x] Multi-repo structure with organization-wide OIDC authentication
 - [x] Documentation baseline: ADRs and operational runbooks (`docs`)
 - [x] Public site live at [mastrocola.dev](https://mastrocola.dev) — hosting, DNS and deploys fully as code
-- [ ] Landing page content and design
+- [x] Landing page content and design
 - [ ] C4 architecture diagrams (`docs`)
 - [ ] `template-service` with golden-path CI/CD
 - [ ] First domain service end-to-end (API → event bus → persistence)
