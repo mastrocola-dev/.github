@@ -4,7 +4,7 @@
 
 **[mastrocola.dev](https://mastrocola.dev)** is a software engineering organization built from scratch to demonstrate — in public — how to design, build, and operate mission-critical backend platforms. Every architectural decision is documented, every service is production-grade, and everything runs on real cloud infrastructure.
 
-Created and maintained by [Marcio Mastrocola Alcantara](https://www.linkedin.com/in/marciomastrocola) — Software Architect & Tech Lead specialized in modernizing legacy systems, event-driven architectures, and data engineering for fintech.
+Created and maintained by [Marcio Mastrocola Alcantara](https://www.linkedin.com/in/marcio-mastrocola) — Software Architect & Tech Lead specialized in modernizing legacy systems, event-driven architectures, and data engineering for fintech.
 
 ## Why this exists
 
@@ -53,4 +53,4 @@ The goal is twofold: showcase architectural competence, and keep the door open f
 
 Open to architecture opportunities — and to conversations about this project.
 
-📫 [marcio@mastrocola.dev](mailto:marcio@mastrocola.dev) · [LinkedIn](https://www.linkedin.com/in/marciomastrocola) · [GitHub](https://github.com/mastrocola-dev)
+📫 [marcio@mastrocola.dev](mailto:marcio@mastrocola.dev) · [LinkedIn](https://www.linkedin.com/in/marcio-mastrocola) · [GitHub](https://github.com/mastrocola-dev)
