@@ -26,8 +26,9 @@ The goal is twofold: showcase architectural competence, and keep the door open f
 | [docs](https://github.com/mastrocola-dev/docs) | Architecture documentation, ADRs, runbooks | 🟢 Active |
 | [infra](https://github.com/mastrocola-dev/infra) | Azure infrastructure as code (Terraform) | 🟢 Active |
 | [www](https://github.com/mastrocola-dev/www) | Public site content, deployed to the edge on every push | 🟢 Active |
-| [service-agent](https://github.com/mastrocola-dev/service-agent) | Agent host (TypeScript) — reasoning loop, MCP client, guardrails | 🟡 Bootstrapping |
-| `mcp-*` | MCP tool servers, one repo per server (e.g. `mcp-rag`, Python) | ⚪ Planned |
+| [service-agent](https://github.com/mastrocola-dev/service-agent) | Agent host (TypeScript) — control loop, MCP client, guardrails, structured output, traces | 🟢 Active |
+| [mcp-docs](https://github.com/mastrocola-dev/mcp-docs) | MCP server exposing the architecture docs to agents | 🟢 Active |
+| `mcp-*` | More MCP tool servers, one repo per server (e.g. `mcp-rag`, Python) | ⚪ Planned |
 | `template-service` | Golden-path microservice template | ⚪ Planned |
 | `service-*` | Domain services — created as the platform grows | ⚪ Planned |
 
@@ -47,7 +48,7 @@ The goal is twofold: showcase architectural competence, and keep the door open f
 - [x] Public site live at [mastrocola.dev](https://mastrocola.dev) — hosting, DNS and deploys fully as code
 - [x] Landing page content and design
 - [x] Agent architecture decided — host language, LLM integration, RAG deferred ([ADR-003](https://github.com/mastrocola-dev/docs/blob/main/adr/003-language-llm-rag.md))
-- [ ] Agent MVP: CLI host, single MCP server, step-limited loop (`service-agent`)
+- [x] Agent MVP: CLI host, first MCP server, guardrails, structured output and traces (`service-agent`, `mcp-docs`)
 - [ ] C4 architecture diagrams (`docs`)
 - [ ] `template-service` with golden-path CI/CD
 - [ ] First domain service end-to-end (API → event bus → persistence)
